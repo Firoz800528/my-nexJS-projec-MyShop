@@ -32,7 +32,7 @@ A **full-stack e-commerce application** built with Next.js 13 (App Router), Next
 
 ## ⚡ Technologies Used
 
-- [Next.js 13](https://nextjs.org/)
+- [Next.js 15](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [NextAuth.js](https://next-auth.js.org/) for authentication
 - [MongoDB](https://www.mongodb.com/) for database
