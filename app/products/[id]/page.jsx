@@ -21,7 +21,6 @@ export default function ProductDetails({ params }) {
 
   return (
     <>
-      <Navbar />
       <div className="max-w-3xl mx-auto px-6 py-10 space-y-4">
         <h2 className="text-3xl font-bold text-gray-800">{product.name}</h2>
         <p className="text-gray-700">{product.description}</p>
