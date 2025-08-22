@@ -1,6 +1,6 @@
 # MyShop - Next.js E-Commerce Project
 
-A **full-stack e-commerce application** built with Next.js 13 (App Router), NextAuth for authentication, MongoDB for data storage, and Tailwind CSS for styling. The app supports **dark/light mode**, **Google login**, and product management features (add/view products).  
+A **full-stack e-commerce application** built with Next.js 15 (App Router), NextAuth for authentication, MongoDB for data storage, and Tailwind CSS for styling. The app supports **Google login**, and product management features (add/view products).  
 
 ---
 
